@@ -1,0 +1,50 @@
+html {
+	background-image: url("http://images.fineartamerica.com/images-medium-large/white-paint-splash-on-black-background-biwa-studio.jpg");			
+	background-size: cover;
+	bottom: 20em;
+}
+
+h1{
+	color:red;
+	text-align: center;
+	margin-top: 90px;
+	font-size: 250%;
+}
+
+p {
+	color: red;
+	font-family: arial;
+	font-style: oblique;
+	text-align: center;
+	margin-top:400px;
+}
+
+nav{
+	color: red;
+	text-decoration: none;
+	text-align: center;
+	word-spacing: 150px;
+	margin-bottom: 150px;
+}
+li {
+	list-style-type: none;
+	display: inline-block;
+	text-align: center;
+	
+
+}
+a{
+	color: red;
+}
+#footer{
+	word-spacing: 120px;
+	margin-top: 80px;
+	font-style: bold;
+}
+.1{
+	display: block;
+	padding-left: 20px;
+}
+
+
+

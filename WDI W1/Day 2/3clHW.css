@@ -1,0 +1,29 @@
+h1{
+	text-align: center;
+	border: groove;
+}
+
+h3{
+	text-align:justify;
+	color:red;
+}
+
+#c1{
+	float:left;
+	width:30%;
+	padding-left:3px;
+	text-align:justify;
+}
+
+#c2{
+	float:left;
+	width:30%;
+	padding-left:5px;
+	text-align:justify;
+}
+#c3{
+	float: left;
+	width:30%;
+	padding-left:5px;
+	text-align:justify;
+}

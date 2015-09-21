@@ -1,0 +1,23 @@
+#container{
+	width: 50%px;
+	background-color: limegreen;
+	margin: 0px, auto;
+	height: 900px;
+}
+#header{
+	width: 10%;
+	height: 200px;
+	background-color: blue;
+	float: left;
+}
+#main_header{
+	height: 100px;
+	width: 10%;
+	float: auto;
+	background-color: orange;
+}
+#footer{
+	width:30%;
+	height: 200px;
+	background-color: pink;
+}

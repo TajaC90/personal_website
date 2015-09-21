@@ -1,0 +1,30 @@
+#column1 {
+	width:30%;
+	float:left;
+	padding-left:5px;
+	text-align: justify;
+}
+
+#column2 {
+	width:30%;
+	float:left;
+	padding-left:5px;
+	text-align: justify;
+}
+#column3{
+	width:30%;
+	float:left;
+	padding-left:5px;
+	text-align: justify;
+}
+img{
+	display:block;
+}
+h1{
+	text-align: center;
+}
+
+#socialmedia li {
+	list-style-type: none;
+	/*display: inline-block;*/
+}
